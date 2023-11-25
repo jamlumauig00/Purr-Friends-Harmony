@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "611421927349",
+    "firebase_url": "https://jamfirebase-5ece6-default-rtdb.firebaseio.com",
+    "project_id": "jamfirebase-5ece6",
+    "storage_bucket": "jamfirebase-5ece6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611421927349:android:69f722704b5280ff5e4bfc",
+        "android_client_info": {
+          "package_name": "aki.aika.purrfriends"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQYqahX28Ts5-rglBfvP5gL4iyHZddLEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
